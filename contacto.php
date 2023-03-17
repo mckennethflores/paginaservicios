@@ -47,17 +47,17 @@ if(isset($_POST["grabar"]))
      $para .= $ConCopiaDos;*/
      
      // título del mensaje
-     $tituloMensaje = 'HIDROSERVICE - Pagina Web';
+     $tituloMensaje = 'Transporte Bella Luz - Pagina Web';
      $título = $tituloMensaje;
      
      // mensaje
      $mensaje = '
      <html>
      <head>
-       <title>HIDROSERVICE</title>
+       <title>Transporte Bella Luz</title>
      </head>
      <body>
-       <p> SOLICITUD DESDE SU PAGINA WEB ¡HIDROSERVICE!</p>
+       <p> SOLICITUD DESDE SU PAGINA WEB ¡Transporte Bella Luz!</p>
        <table border="1" cellpadding="1">
          <tr>
            <th>Nombre</th>      
@@ -93,8 +93,8 @@ $cabeceras .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 // Cabeceras adicionales
 //$cabeceras .= 'To: Mckenneth Flores <informes@frsystem.com.pe>, Kelly <kelly@example.com>' . "\r\n";
 // Recordatorio <reservas@taxirgmperu.com>
-$nombreEmpresa = 'Hidroservice';
-$correoEmpresa = ' <hidroservice123@gmail.com>';
+$nombreEmpresa = 'Transporte Bella Luz';
+$correoEmpresa = ' <Transporte Bella Luz123@gmail.com>';
 $cabeceras .= 'From: '. $nombreEmpresa . $correoEmpresa . "\r\n";
 //Enviar con copia a
 /*$ConCopia = 'mflores_rivera@hotmail.com';
@@ -182,7 +182,7 @@ if($mensajeValidacionSuccess != ''){
         <div class="conCont esp">
                       <h2 class="phone_n">Números telefónicos</h2>
 <ul>
-<li>984 288 065</li>
+<li>920 610 632</li>
  
 <!--<li>(51) 988 473 906</li>
 <li>(51) 981 376 406</li>-->

@@ -19,7 +19,7 @@
 		<img src="img/fotoNosotros.jpg" width="87%" alt="">
 	</div>
 	<div class="col-md-8 esp-top">
-	<p class="text-justify">Nuestra empresa HIDROSERVICE, cuenta con 15 años de experiencia resolviendo las necesidades de nuestros clientes, caracterizada por mantener un alto nivel profesional en el Desarrollo Integral de Proyectos, Construcción, Equipamiento completo y Mantenimiento de Piscinas, Piletas Ornamentales y Sistemas de Abastecimiento de agua</p>
+	<p class="text-justify">Nuestra empresa Transporte Bella Luz, cuenta con 15 años de experiencia resolviendo las necesidades de nuestros clientes, caracterizada por mantener un alto nivel profesional en el Desarrollo Integral de Proyectos, Construcción, Equipamiento completo y Mantenimiento de Piscinas, Piletas Ornamentales y Sistemas de Abastecimiento de agua</p>
 	<h3 class="tit-3-esp">NUESTRO OBJETIVO</h3>
 	<p class="text-justify">Resolver las necesidades de nuestros Clientes mediante la aplicación de herramientas de ingeniería con equipos y materiales de la mejor calidad en un entorno saludable al medio ambiente.</p>
 	</div>

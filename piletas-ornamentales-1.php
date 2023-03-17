@@ -20,15 +20,15 @@
  <div class="col-md-8 esp-left esp-top">
  	<h3 class="esp-top">ELECTROBOMBAS</h3>
  	<p>Le ofrecemos una variedad de opciones en modelo y potencias de acuerdo a los requerimientos de los efectos hidráulicos proyectados.</p>	
-	<img  class="border border-primary   border2 border-primary" src="img/piletas-ornamentales-1.png" alt="hidroservice" title="hidroservice"> 
+	<img  class="border border-primary   border2 border-primary" src="img/piletas-ornamentales-1.png" alt="Transporte Bella Luz" title="Transporte Bella Luz"> 
 	<h3 class="esp-top">BOQUILLAS ORNAMENTALES PARA PILETAS</h3> <br>
 	<P>Fabricación de boquillas para piletas</P>
-	<img  class="border border-primary border2 border-primary" src="img/piletas-ornamentales-21.png" width="100%" alt="hidroservice" title="hidroservice"> 
+	<img  class="border border-primary border2 border-primary" src="img/piletas-ornamentales-21.png" width="100%" alt="Transporte Bella Luz" title="Transporte Bella Luz"> 
 	<p>Contamos con una amplia gama de opciones en jets decorativos convencionales y secuenciales que le permitan desarrollar los efectos hidráulicos proyectados.</p>
-	<img  class="border border-primary   border2 border-primary" src="img/piletas-ornamentales-2.png" alt="hidroservice" title="hidroservice"> 
+	<img  class="border border-primary   border2 border-primary" src="img/piletas-ornamentales-2.png" alt="Transporte Bella Luz" title="Transporte Bella Luz"> 
 	<h3 class="esp-top">ILUMINACIÓN SUB-ACUATICA</h3>
 	<p>Les ofrecemos una amplia gama de reflectores sub-acuáticos especiales para piletas de todo tipo. Estos pueden ser convencionales ó a base de LEDS con capacidad de ser programables y lograr efectos de colores secuenciales.</p>
-	<img  class="border border-primary   border2 border-primary" src="img/piletas-ornamentales-3.png" alt="hidroservice" title="hidroservice"> 
+	<img  class="border border-primary   border2 border-primary" src="img/piletas-ornamentales-3.png" alt="Transporte Bella Luz" title="Transporte Bella Luz"> 
 
 
 

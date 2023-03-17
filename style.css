@@ -479,8 +479,7 @@
 }
 .social-button {
       display: inline-block;
-    border: solid 1px #ce6b01;
-  
+    border: solid 1px #C80F15;
     background-color: white;
     width: 35px;
     height: 35px;
@@ -551,21 +550,21 @@ fab
 }
 .social-button.facebook .fa {
      /* color: #1c5487;*/
-      color: #ed7c04;
+      color: #0F0ECB;
 }
 .social-button.twitter:before {
   background-color: #3cf;
 }
 .social-button.twitter .fa {
   /*color: #3cf;*/
-  color: #ed7c04;
+  color: #0F0ECB;
 }
 .social-button.google:before {
   background-color: #dc4a38;
 }
 .social-button.google .fa {
 
-  color: #ed7c04;
+  color: #0F0ECB;
 }
 .social-button.dribbble:before {
     background-color: #E31424;
@@ -573,14 +572,14 @@ fab
 }
 .social-button.dribbble .fa {
 
-    color: #ed7c04;
+    color: #0F0ECB;
 }
 .social-button.linkedin:before {
   background-color: #1f5688;
 }
 .social-button.linkedin .fa {
  /* color: #1f5688;*/
- color: #ed7c04; 
+ color: #0F0ECB; 
 }
 .social-button:hover:before {
   top: -10%;
@@ -5034,8 +5033,8 @@ h6 {
 }
 
 .bg-light {
-    background-color: rgb(245, 245, 245)!important;
-    background: url(css/textura-clara.jpg);
+/*     background-color: rgb(245, 245, 245)!important;
+    background: url(css/textura-clara.jpg); */
 }
 section.vermasservicios {
     padding-top: 50px;
@@ -5892,7 +5891,7 @@ h3.servicios:before {
   width: 100%;
  /* height: 500px;*/
     height: 239px; 
-  background-image: url(img/galeria/proyecto-hidroservice1.jpg);
+  background-image: url(img/galeria/proyecto-Transporte Bella Luz1.jpg);
   background-size: cover;
   background-position: center;
   padding: 0 !important;
@@ -5901,28 +5900,28 @@ h3.servicios:before {
 }
 
 .project-2 {
-  background-image: url(img/galeria/proyecto-hidroservice2.jpg);
+  background-image: url(img/galeria/proyecto-Transporte Bella Luz2.jpg);
 }
 
 .project-3 {
-  background-image: url(img/galeria/proyecto-hidroservice3.jpg);
+  background-image: url(img/galeria/proyecto-Transporte Bella Luz3.jpg);
 }
 
 .project-4 {
-  background-image: url(img/galeria/proyecto-hidroservice4.jpg);
+  background-image: url(img/galeria/proyecto-Transporte Bella Luz4.jpg);
 }
 
 .project-5 {
-  background-image: url(img/galeria/proyecto-hidroservice5.jpg);
+  background-image: url(img/galeria/proyecto-Transporte Bella Luz5.jpg);
 }
 .project-6 {
-  background-image: url(img/galeria/proyecto-hidroservice6.jpg);
+  background-image: url(img/galeria/proyecto-Transporte Bella Luz6.jpg);
 }
 .project-7 {
-  background-image: url(img/galeria/proyecto-hidroservice7.jpg);
+  background-image: url(img/galeria/proyecto-Transporte Bella Luz7.jpg);
 }
 .project-8 {
-  background-image: url(img/galeria/proyecto-hidroservice8.jpg);
+  background-image: url(img/galeria/proyecto-Transporte Bella Luz8.jpg);
 }
 .project-hover {
     width: 100%;
@@ -6570,7 +6569,7 @@ select:focus, input[type="file"]:focus, input[type="radio"]:focus, input[type="c
 
 
 img.logo {
-  /*  width: 75%; */
+   width: 75%;
 }
 
  /*********   Otras medidas   ********/

@@ -60,17 +60,17 @@ if(isset($_POST["grabar"]))
      $para .= $ConCopiaDos;*/
      
      // título del mensaje
-     $tituloMensaje = 'HIDROSERVICE - Pagina Web';
+     $tituloMensaje = 'Transporte Bella Luz - Pagina Web';
      $título = $tituloMensaje;
      
      // mensaje
      $mensaje = '
      <html>
      <head>
-       <title>HIDROSERVICE</title>
+       <title>Transporte Bella Luz</title>
      </head>
      <body>
-       <p>¡HIDROSERVICE!</p>
+       <p>¡Transporte Bella Luz!</p>
        <table border="1" cellpadding="1">
          <tr>
            <th>Nombre</th>      
@@ -105,7 +105,7 @@ $cabeceras .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 //$cabeceras .= 'To: Mckenneth Flores <informes@frsystem.com.pe>, Kelly <kelly@example.com>' . "\r\n";
 // Recordatorio <reservas@taxirgmperu.com>
 $nombreEmpresa = '';
-$correoEmpresa = ' <hidroservice123@gmail.com>';
+$correoEmpresa = ' <Transporte Bella Luz123@gmail.com>';
 $cabeceras .= 'From: '. $nombreEmpresa . $correoEmpresa . "\r\n";
 //Enviar con copia a
 /*$ConCopia = 'mflores_rivera@hotmail.com';
@@ -163,21 +163,21 @@ if($mensajeValidacionSuccess != ''){
       <img class="d-block w-100" src="img/slide/1.jpg" alt="First slide">
   <!--    <div class="carousel-caption d-none d-md-block">
   <p >Soluciones en ingenería eléctrica</p>
-        <h1 class="tituloSlide animated fadeInRight">HIDROSERVICE</h1>
+        <h1 class="tituloSlide animated fadeInRight">Transporte Bella Luz</h1>
     </div>-->
     </div> 
     <div class="carousel-item ">
       <img class="d-block w-100" src="img/slide/2.jpg" alt="First slide">
   <!--    <div class="carousel-caption d-none d-md-block">
   <p >Soluciones en ingenería eléctrica</p>
-        <h1 class="tituloSlide animated fadeInRight">HIDROSERVICE</h1>
+        <h1 class="tituloSlide animated fadeInRight">Transporte Bella Luz</h1>
     </div>-->
     </div>
     <div class="carousel-item ">
       <img class="d-block w-100" src="img/slide/3.jpg" alt="First slide">
   <!--    <div class="carousel-caption d-none d-md-block">
   <p >Soluciones en ingenería eléctrica</p>
-        <h1 class="tituloSlide animated fadeInRight">HIDROSERVICE</h1>
+        <h1 class="tituloSlide animated fadeInRight">Transporte Bella Luz</h1>
     </div>-->
     </div>
  <!--     <div class="carousel-item ">
@@ -201,7 +201,7 @@ if($mensajeValidacionSuccess != ''){
       <img class="d-block w-100" src="img/slide/slider2.png" alt="Second slide">
          <div class="carousel-caption d-none d-md-block">
     <p class="animated fadeInRight">Soluciones en ingenería eléctrica</p>
-        <h1 class="tituloSlide animated fadeInRight">HIDROSERVICE</h1>
+        <h1 class="tituloSlide animated fadeInRight">Transporte Bella Luz</h1>
     </div>
     </div> -->
 
@@ -222,10 +222,10 @@ if($mensajeValidacionSuccess != ''){
 
  <section class="quienessomos">
  <div class="espacio"></div>
- <h2  class="text-center titH2">Somos especialistas en construcción de Piscinas y Fuentes de Agua</h2>
-<p class="text-center">Somos expertos en el diseño y construcción de piscinas y fuentes de agua en Perú. <br>
-Nuestro principal objetivo es la plena satisfacción de nuestros clientes<br>
-por un trabajo bien realizado, para ello, disponemos de los mejores profesionales, técnicos, productos y servicios. <br>
+ <h2  class="text-center titH2">Transporte Terrestre de Carga y Logística</h2>
+<p class="text-center">Contamos con una amplia variedad de opciones de vehículos,<br> desde carga pesada hasta liviana, estamos preparados para realizar entregas nacionales e internacionales.<br>
+ Además, nuestros servicios de almacenamiento y distribución en nuestras instalaciones, <br>así como la consolidación y desconsolidación de cargas,<br>
+  nos permiten ofrecer soluciones completas para optimizar la cadena de suministro de nuestros clientes.<br>
 </p>
 <div class="espacio"></div>
 
@@ -249,10 +249,10 @@ por un trabajo bien realizado, para ello, disponemos de los mejores profesionale
   <div class="row serviciosEquipos">
       <div class="col">
         <div class="span imgs">
-        <a href="servicios.php"><h3 class="serviciosTitulo">PISCINAS</h3></a>
+        <a href="servicios.php"><h3 class="serviciosTitulo">Transporte Terrestre</h3></a>
         </div>
         <div class="text-center pserv">
-        <a href="servicios.php"><figure><img class="img-center" src="img/piscina-hidroservice.png" alt="piscina-hidroservice"/></figure></a>
+        <a href="servicios.php"><figure><img class="img-center" src="img/piscina-Transporte Bella Luz.png" alt="piscina-Transporte Bella Luz"/></figure></a>
         </div>
       </div>
       <div class="col">
@@ -571,37 +571,20 @@ Entre las principales empresas que han confiado en nuestro trabajo se encuentran
 
    </div>
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-12">
               <div class="card mb-4 box-shadow">
- <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FHidroservice-215062545716339&tabs=timeline&width=338&height=374&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="338" height="374" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-              </div>
+              <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FTransportesbellaluz&tabs=timeline&width=338&height=374&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=3210602238964926" width="338" height="374" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+           </div>
             </div>
 
-            <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
- <a class="twitter-timeline" href="https://twitter.com/Hidroservice2?ref_src=twsrc%5Etfw">Tweets by Hidroservice2</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-              </div>
-            </div>
-
-            <div class="col-md-4">
-               <div class="card mb-4 box-shadow">
-                 <iframe width="338" height="374" src="https://www.youtube.com/embed/D1MX90gAXaA?rel=0&amp;start=3" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>                
-               </div>
-            </div>
+          
+ 
         </div>
     </div>
         
 </section>
 
-    <section class="marginVideoNuevo">
-        <div class="row">
-            <div class="col-md-12">
-              <div class="card mb-4 box-shadow">
-                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/mgzLAvRdxLU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-              </div>
-            </div>
-        </div>
-    </section>
+ 
 <!-- /Redes sociales -->
 
 
