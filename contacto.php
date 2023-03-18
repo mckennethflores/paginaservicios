@@ -197,16 +197,16 @@ if($mensajeValidacionSuccess != ''){
 </ul>
 <h2 class="dir_n">Dirección</h2>
 <ul>
-<li>C.C boulevar ferretero Dansey 354 Tienda H 17 cercado de lima</li>
+<li>Dirección: Av. Alfredo Mendiola 4148, Independencia 15311, Lima, Perú</li>
 </ul>
  
-<h2>Números de cuenta</h2>
+<!-- <h2>Números de cuenta</h2>
 <ul>
 <li>Detracción - Banco de la Nación Soles: 00-000-638692 CCI. 00219200163834514837
 </li>
-<!--<li>BCP soles: 191-1777426-0-326</li> -->
+ 
  <li>BCP soles: 000-0000000-0-000</li>
-</ul>
+</ul> -->
                   </div>        
       </div>
     </div>
