@@ -1,8 +1,18 @@
 document.addEventListener('DOMContentLoaded', function() {
  
 
+   var typed = new Typed(".anim1", {
+    strings: ["carga"],
+        typeSpeed: 50,
+        backSpeed: 50,
+         smartBackspace: true,
+         bindInputFocusEvents: true,
+     
+     loop: true
+  });
+
    var typed = new Typed(".anim2", {
-    strings: ["ORNAMENTALES"],
+    strings: ["distribución"],
         typeSpeed: 50,
         backSpeed: 50,
          smartBackspace: true,
@@ -12,7 +22,7 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 
   var typed = new Typed(".anim3", {
-    strings: ["EN GENERAL"],
+    strings: ["de cargas"],
         typeSpeed: 50,
         backSpeed: 50,
          smartBackspace: true,
@@ -20,8 +30,19 @@ document.addEventListener('DOMContentLoaded', function() {
      
      loop: true
   });  
+  
   var typed = new Typed(".anim4", {
-    strings: ["INCENDIO"],
+    strings: ["logística"],
+        typeSpeed: 50,
+        backSpeed: 50,
+         smartBackspace: true,
+         bindInputFocusEvents: true,
+     
+     loop: true
+  });  
+  
+  var typed = new Typed(".anim5", {
+    strings: ["carga"],
         typeSpeed: 50,
         backSpeed: 50,
          smartBackspace: true,

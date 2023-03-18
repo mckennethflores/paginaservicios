@@ -40,6 +40,19 @@
     font-weight: normal;
     font-style: normal;
   }
+
+  :root {
+    --rojo-principal: #F71E1E;
+    --rojo-fondo: #FFECEC;
+    --azul-principal: #0067CE;
+    --gray-70: #b3b3b3;
+    --azul-degradado: linear-gradient(270deg, #0067CE 0%, #00427E 100%);
+    --texto-normal: 20px;
+    --height-normal-title : 80px;
+
+  }
+
+
   body {
     font-size: 18px;
     color: #4b565c;
@@ -72,9 +85,30 @@
   }
   a {
     font-family: futura;
-    color: #e42312;
+    color: var(--rojo-principal);
     outline: none !important;
   }
+
+	.imgNosotros{
+		height: 12.5rem;
+    padding-bottom: 1.5rem;
+	}
+	.espacio{
+		height: 70px;
+	}
+	.purpose{
+		color: var(--azul-principal);
+	}
+  img {
+      width: 100%;
+  }
+
+
+  .fa-check:before {
+    color: var(--rojo-principal);
+  }
+
+
   a:hover {
     color: #4b565c;
   }
@@ -611,7 +645,7 @@ fab
       z-index: 2;
   }*/
   .site-footer h2 {
-    color: #fff;
+    color: var(--rojo-fondo);
   }
   .site-footer h3 {
       color: #FFFFFF;
@@ -2121,7 +2155,7 @@ fab
       margin-top: -100px;
           z-index: 150;
   }
-  .titH2:before {
+/*   .titH2:before {
       content: '';
       position: absolute;
           background: url('../images/icon/icono_basico-01.svg');
@@ -2133,7 +2167,7 @@ fab
       -webkit-animation: spinY 3s infinite linear;
       -moz-animation: spinY 3s infinite linear;
       animation: spinY 3s infinite linear;
-  }
+  } */
   .fin .post-main img {
      -webkit-animation: spinY 3s infinite linear;
       -moz-animation: spinY 3s infinite linear;
@@ -5013,7 +5047,7 @@ h4,
 h5,
 h6 {
   font-weight: bold !important;
-  color: #1d1d1b;
+  color: var(--rojo-principal);
   
 }
 
@@ -5596,7 +5630,7 @@ div#formularioContacto {
 }*/
 
 .site-footer {
-    background: #242422;
+    background: var(--azul-principal);
     color: #fff;
     display: inline-block;
     width: 100%;
@@ -5693,9 +5727,9 @@ a.menu-image-title-after:hover {
 .copy-foo {
       height: 70px;  
     line-height: 20px;
-    color: #7b7b7b;
+    color: var(--gray-70);
     font-size: 14px;
-    background: #1d1d1b;
+    background: var(--azul-principal);
     padding-top: 10px;
 }
 .tituloContacto::before {
@@ -5774,7 +5808,7 @@ h2.tituloContacto {
     display: inline-block;
     width: 0;
     height: 0;
-    border-bottom: 321px solid #242422;    
+    border-bottom: 321px solid var(--azul-principal);    
     border-left: 100px solid transparent;
     position: absolute;
     left: -100px;
@@ -5783,7 +5817,7 @@ h2.tituloContacto {
 
 /* Menu footer */
 .menuFoot {
-    background: #242422;
+    background: var(--azul-principal);
     display: inline-block;
     width: 100%;
     text-align: center;
@@ -5891,7 +5925,7 @@ h3.servicios:before {
   width: 100%;
  /* height: 500px;*/
     height: 239px; 
-  background-image: url(img/galeria/proyecto-Transporte Bella Luz1.jpg);
+  background-image: url(img/galeria_transporte/a_transporte.png);
   background-size: cover;
   background-position: center;
   padding: 0 !important;
@@ -5900,29 +5934,18 @@ h3.servicios:before {
 }
 
 .project-2 {
-  background-image: url(img/galeria/proyecto-Transporte Bella Luz2.jpg);
+  background-image: url(img/galeria_transporte/b_transporte.png);
 }
 
 .project-3 {
-  background-image: url(img/galeria/proyecto-Transporte Bella Luz3.jpg);
+  background-image: url(img/galeria_transporte/c_transporte.png);
 }
 
 .project-4 {
-  background-image: url(img/galeria/proyecto-Transporte Bella Luz4.jpg);
+  background-image: url(img/galeria_transporte/d_transporte.png);
 }
 
-.project-5 {
-  background-image: url(img/galeria/proyecto-Transporte Bella Luz5.jpg);
-}
-.project-6 {
-  background-image: url(img/galeria/proyecto-Transporte Bella Luz6.jpg);
-}
-.project-7 {
-  background-image: url(img/galeria/proyecto-Transporte Bella Luz7.jpg);
-}
-.project-8 {
-  background-image: url(img/galeria/proyecto-Transporte Bella Luz8.jpg);
-}
+
 .project-hover {
     width: 100%;
     height: 100%;
@@ -6037,7 +6060,8 @@ p.descProyectos {
     padding: .2rem 1rem;
 }
 section.contenedoHeader {
-    background: rgba(53, 136, 204, 1);
+    background: var(--azul-principal);
+    height: var(--height-normal-title);
 }
 .container.tituloNavegacion h2 {
     color: white;
@@ -6147,7 +6171,7 @@ strong {
     transition: 0.5s;
     left: 0;
 }
-.titH2:before {
+/* .titH2:before {
     content: '';
     position: absolute;
         background: url('../img/icon/icono_basico.svg');
@@ -6159,7 +6183,7 @@ strong {
     -webkit-animation: spinY 3s infinite linear;
     -moz-animation: spinY 3s infinite linear;
     animation: spinY 3s infinite linear;
-}
+} */
 .suscripcion .titH2 {
     position: relative;
     text-align: left;
@@ -6825,7 +6849,7 @@ color:#ffffff
   height: 280px;
 }
 .menuFoot {
-  background: #242422;
+  background: var(--azul-principal);
   display: inline-block;
   width: 100%;
   text-align: center;
@@ -7255,10 +7279,13 @@ i.fas.fa-swimming-pool {
     padding-top: 45px;
 }
 .titH1 h2 {
-    font-size: 35px;
+    font-size: var(--texto-normal);
+    text-transform: uppercase;
 }
 h2, h3{
     font-family: 'Open Sans Extrabold';
+    justify-content: center;
+    display: flex;
 }
 .titH3 h3 {
     color: #165ea6;
@@ -7272,7 +7299,7 @@ span.menu-image-title {
     font-family: sans-serif;
 }
 h4{
-    color: #1d1d1b;
+    color: var(--rojo-principal);
     margin-bottom: 11px;
     font-family: 'Open Sans Extrabold';
 }

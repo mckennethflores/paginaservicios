@@ -1,33 +1,27 @@
-<footer id="colophon" class="site-footer" role="contentinfo">
- 
+<footer id="colophon" class="site-footer" role="contentinfo"> 
  <div class="row contMapa">
   <div class="col-md-6 col-12 mapasinpadding mapi">   
-   <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.8497023465275!2d-77.06644365032355!3d-11.98489984397245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105ce4e47be9695%3A0xd08249c5aab74c22!2sAv.%20Alfredo%20Mendiola%204148%2C%20Independencia%2015311!5e0!3m2!1sen!2spe!4v1679016113191!5m2!1sen!2spe" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3902.8497023465275!2d-77.06644365032355!3d-11.98489984397245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9105ce4e47be9695%3A0xd08249c5aab74c22!2sAv.%20Alfredo%20Mendiola%204148%2C%20Independencia%2015311!5e0!3m2!1sen!2spe!4v1679016113191!5m2!1sen!2spe" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
   </div>
   <div class="col-md-6 col-12 infoMa">
-         <div class="continfoMap">
-          <h2 class="tituloContacto">Ven a Transporte Bella Luz para impresionarte con nuestros servicios: </h2>         
-          <div class="row">
-            <div class="col-sm-12 col-lg-6 lugar">
-              <h3>Visitanos en:</h3>
-              <p><span>Dirección: </span>Av. Alfredo Mendiola 4148, Lima Independencia, Perú</p>
-            </div>
-            <div class="col-sm-12 col-lg-6 fono">
-              <h3 class="llamanos">Llamanos al: </h3>
-              <p><span>Central: </span>920 610 632</p> 
-               
-              <p><span> </span></p>
-              <h3 class="llamanos">Email: </h3>
-              <p>
-tracomarstransportes@gmail.com
-             </p>
-            </div>
-          </div>
+    <div class="continfoMap">
+      <h2 class="tituloContacto">¡Contáctenos hoy mismo para su próximo envío!</h2>         
+      <div class="row">
+        <div class="col-sm-12 col-lg-6 fono">
+          <h3 class="llamanos">Llamanos al: </h3>
+          <p><span>Central: </span>920 610 632</p>            
+          <p><span> </span></p>
+          <h3 class="llamanos">Email: </h3>
+          <p>tracomarstransportes@gmail.com</p>
         </div>
+        <div class="col-sm-12 col-lg-6 lugar">
+          <h3>Visitanos en:</h3>
+          <p><span>Dirección: </span>Av. Alfredo Mendiola 4148, Independencia 15311, Lima, Perú</p>
+        </div>
+      </div>
+    </div>
   </div>
-
-</div>	
-
+</div>
     <div class="menuFoot">
       <div class="contenedor">
        <div class="menu-menu-pie-de-pagina-container">
@@ -53,10 +47,8 @@ tracomarstransportes@gmail.com
                </div>
             </div>
           </div>    
-      </div>
-	  
-    </div> 
-
+      </div>	  
+    </div>
 </footer>
 
 	 
@@ -65,14 +57,14 @@ tracomarstransportes@gmail.com
 
 <script src="js/jquery-3.3.1.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="js/bootstrap.min.js"    type="text/javascript" charset="utf-8"></script>
-  <script src="js/owl-jquery.min.js"></script> 
-  <script src="js/owl.carousel.min.js"></script>
-    <script src="js-slider/jquery.js"></script>
- <script src="js-slider/initslider-1.js"></script>
-  <script src="js-slider/amazingslider.js"></script>
-  <!-- Texto dinamico cambiante -->
-  <script src="js/typed.js"></script>
-  <script src="js/basic.js"></script>
+<script src="js/owl-jquery.min.js"></script> 
+<script src="js/owl.carousel.min.js"></script>
+<script src="js-slider/jquery.js"></script>
+<script src="js-slider/initslider-1.js"></script>
+<script src="js-slider/amazingslider.js"></script>
+<!-- Texto dinamico cambiante -->
+<script src="js/typed.js"></script>
+<script src="js/basic.js"></script>
 <script type="text/javascript">
   $(document).ready(function(){
 
