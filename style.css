@@ -40,6 +40,7 @@
     font-weight: normal;
     font-style: normal;
   }
+<<<<<<< HEAD
 
   :root {
     --rojo-principal: #F71E1E;
@@ -53,6 +54,8 @@
   }
 
 
+=======
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
   body {
     font-size: 18px;
     color: #4b565c;
@@ -85,6 +88,7 @@
   }
   a {
     font-family: futura;
+<<<<<<< HEAD
     color: var(--rojo-principal);
     outline: none !important;
   }
@@ -109,6 +113,11 @@
   }
 
 
+=======
+    color: #e42312;
+    outline: none !important;
+  }
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
   a:hover {
     color: #4b565c;
   }
@@ -513,7 +522,12 @@
 }
 .social-button {
       display: inline-block;
+<<<<<<< HEAD
     border: solid 1px #C80F15;
+=======
+    border: solid 1px #ce6b01;
+  
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
     background-color: white;
     width: 35px;
     height: 35px;
@@ -584,21 +598,33 @@ fab
 }
 .social-button.facebook .fa {
      /* color: #1c5487;*/
+<<<<<<< HEAD
       color: #0F0ECB;
+=======
+      color: #ed7c04;
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
 }
 .social-button.twitter:before {
   background-color: #3cf;
 }
 .social-button.twitter .fa {
   /*color: #3cf;*/
+<<<<<<< HEAD
   color: #0F0ECB;
+=======
+  color: #ed7c04;
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
 }
 .social-button.google:before {
   background-color: #dc4a38;
 }
 .social-button.google .fa {
 
+<<<<<<< HEAD
   color: #0F0ECB;
+=======
+  color: #ed7c04;
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
 }
 .social-button.dribbble:before {
     background-color: #E31424;
@@ -606,14 +632,22 @@ fab
 }
 .social-button.dribbble .fa {
 
+<<<<<<< HEAD
     color: #0F0ECB;
+=======
+    color: #ed7c04;
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
 }
 .social-button.linkedin:before {
   background-color: #1f5688;
 }
 .social-button.linkedin .fa {
  /* color: #1f5688;*/
+<<<<<<< HEAD
  color: #0F0ECB; 
+=======
+ color: #ed7c04; 
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
 }
 .social-button:hover:before {
   top: -10%;
@@ -645,7 +679,11 @@ fab
       z-index: 2;
   }*/
   .site-footer h2 {
+<<<<<<< HEAD
     color: var(--rojo-fondo);
+=======
+    color: #fff;
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
   }
   .site-footer h3 {
       color: #FFFFFF;
@@ -2155,7 +2193,11 @@ fab
       margin-top: -100px;
           z-index: 150;
   }
+<<<<<<< HEAD
 /*   .titH2:before {
+=======
+  .titH2:before {
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
       content: '';
       position: absolute;
           background: url('../images/icon/icono_basico-01.svg');
@@ -2167,7 +2209,11 @@ fab
       -webkit-animation: spinY 3s infinite linear;
       -moz-animation: spinY 3s infinite linear;
       animation: spinY 3s infinite linear;
+<<<<<<< HEAD
   } */
+=======
+  }
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
   .fin .post-main img {
      -webkit-animation: spinY 3s infinite linear;
       -moz-animation: spinY 3s infinite linear;
@@ -5047,7 +5093,11 @@ h4,
 h5,
 h6 {
   font-weight: bold !important;
+<<<<<<< HEAD
   color: var(--rojo-principal);
+=======
+  color: #1d1d1b;
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
   
 }
 
@@ -5067,8 +5117,13 @@ h6 {
 }
 
 .bg-light {
+<<<<<<< HEAD
 /*     background-color: rgb(245, 245, 245)!important;
     background: url(css/textura-clara.jpg); */
+=======
+    background-color: rgb(245, 245, 245)!important;
+    background: url(css/textura-clara.jpg);
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
 }
 section.vermasservicios {
     padding-top: 50px;
@@ -5630,7 +5685,11 @@ div#formularioContacto {
 }*/
 
 .site-footer {
+<<<<<<< HEAD
     background: var(--azul-principal);
+=======
+    background: #242422;
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
     color: #fff;
     display: inline-block;
     width: 100%;
@@ -5727,9 +5786,15 @@ a.menu-image-title-after:hover {
 .copy-foo {
       height: 70px;  
     line-height: 20px;
+<<<<<<< HEAD
     color: var(--gray-70);
     font-size: 14px;
     background: var(--azul-principal);
+=======
+    color: #7b7b7b;
+    font-size: 14px;
+    background: #1d1d1b;
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
     padding-top: 10px;
 }
 .tituloContacto::before {
@@ -5808,7 +5873,11 @@ h2.tituloContacto {
     display: inline-block;
     width: 0;
     height: 0;
+<<<<<<< HEAD
     border-bottom: 321px solid var(--azul-principal);    
+=======
+    border-bottom: 321px solid #242422;    
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
     border-left: 100px solid transparent;
     position: absolute;
     left: -100px;
@@ -5817,7 +5886,11 @@ h2.tituloContacto {
 
 /* Menu footer */
 .menuFoot {
+<<<<<<< HEAD
     background: var(--azul-principal);
+=======
+    background: #242422;
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
     display: inline-block;
     width: 100%;
     text-align: center;
@@ -5925,7 +5998,11 @@ h3.servicios:before {
   width: 100%;
  /* height: 500px;*/
     height: 239px; 
+<<<<<<< HEAD
   background-image: url(img/galeria_transporte/a_transporte.png);
+=======
+  background-image: url(img/galeria/proyecto-hidroservice1.jpg);
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
   background-size: cover;
   background-position: center;
   padding: 0 !important;
@@ -5934,6 +6011,7 @@ h3.servicios:before {
 }
 
 .project-2 {
+<<<<<<< HEAD
   background-image: url(img/galeria_transporte/b_transporte.png);
 }
 
@@ -5946,6 +6024,31 @@ h3.servicios:before {
 }
 
 
+=======
+  background-image: url(img/galeria/proyecto-hidroservice2.jpg);
+}
+
+.project-3 {
+  background-image: url(img/galeria/proyecto-hidroservice3.jpg);
+}
+
+.project-4 {
+  background-image: url(img/galeria/proyecto-hidroservice4.jpg);
+}
+
+.project-5 {
+  background-image: url(img/galeria/proyecto-hidroservice5.jpg);
+}
+.project-6 {
+  background-image: url(img/galeria/proyecto-hidroservice6.jpg);
+}
+.project-7 {
+  background-image: url(img/galeria/proyecto-hidroservice7.jpg);
+}
+.project-8 {
+  background-image: url(img/galeria/proyecto-hidroservice8.jpg);
+}
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
 .project-hover {
     width: 100%;
     height: 100%;
@@ -6060,8 +6163,12 @@ p.descProyectos {
     padding: .2rem 1rem;
 }
 section.contenedoHeader {
+<<<<<<< HEAD
     background: var(--azul-principal);
     height: var(--height-normal-title);
+=======
+    background: rgba(53, 136, 204, 1);
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
 }
 .container.tituloNavegacion h2 {
     color: white;
@@ -6171,7 +6278,11 @@ strong {
     transition: 0.5s;
     left: 0;
 }
+<<<<<<< HEAD
 /* .titH2:before {
+=======
+.titH2:before {
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
     content: '';
     position: absolute;
         background: url('../img/icon/icono_basico.svg');
@@ -6183,7 +6294,11 @@ strong {
     -webkit-animation: spinY 3s infinite linear;
     -moz-animation: spinY 3s infinite linear;
     animation: spinY 3s infinite linear;
+<<<<<<< HEAD
 } */
+=======
+}
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
 .suscripcion .titH2 {
     position: relative;
     text-align: left;
@@ -6593,7 +6708,11 @@ select:focus, input[type="file"]:focus, input[type="radio"]:focus, input[type="c
 
 
 img.logo {
+<<<<<<< HEAD
    width: 75%;
+=======
+  /*  width: 75%; */
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
 }
 
  /*********   Otras medidas   ********/
@@ -6849,7 +6968,11 @@ color:#ffffff
   height: 280px;
 }
 .menuFoot {
+<<<<<<< HEAD
   background: var(--azul-principal);
+=======
+  background: #242422;
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
   display: inline-block;
   width: 100%;
   text-align: center;
@@ -7279,6 +7402,7 @@ i.fas.fa-swimming-pool {
     padding-top: 45px;
 }
 .titH1 h2 {
+<<<<<<< HEAD
     font-size: var(--texto-normal);
     text-transform: uppercase;
 }
@@ -7286,6 +7410,12 @@ h2, h3{
     font-family: 'Open Sans Extrabold';
     justify-content: center;
     display: flex;
+=======
+    font-size: 35px;
+}
+h2, h3{
+    font-family: 'Open Sans Extrabold';
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
 }
 .titH3 h3 {
     color: #165ea6;
@@ -7299,7 +7429,11 @@ span.menu-image-title {
     font-family: sans-serif;
 }
 h4{
+<<<<<<< HEAD
     color: var(--rojo-principal);
+=======
+    color: #1d1d1b;
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
     margin-bottom: 11px;
     font-family: 'Open Sans Extrabold';
 }

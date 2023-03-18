@@ -47,17 +47,28 @@ if(isset($_POST["grabar"]))
      $para .= $ConCopiaDos;*/
      
      // título del mensaje
+<<<<<<< HEAD
      $tituloMensaje = 'Transporte Bella Luz - Pagina Web';
+=======
+     $tituloMensaje = 'HIDROSERVICE - Pagina Web';
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
      $título = $tituloMensaje;
      
      // mensaje
      $mensaje = '
      <html>
      <head>
+<<<<<<< HEAD
        <title>Transporte Bella Luz</title>
      </head>
      <body>
        <p> SOLICITUD DESDE SU PAGINA WEB ¡Transporte Bella Luz!</p>
+=======
+       <title>HIDROSERVICE</title>
+     </head>
+     <body>
+       <p> SOLICITUD DESDE SU PAGINA WEB ¡HIDROSERVICE!</p>
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
        <table border="1" cellpadding="1">
          <tr>
            <th>Nombre</th>      
@@ -93,8 +104,13 @@ $cabeceras .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n";
 // Cabeceras adicionales
 //$cabeceras .= 'To: Mckenneth Flores <informes@frsystem.com.pe>, Kelly <kelly@example.com>' . "\r\n";
 // Recordatorio <reservas@taxirgmperu.com>
+<<<<<<< HEAD
 $nombreEmpresa = 'Transporte Bella Luz';
 $correoEmpresa = ' <Transporte Bella Luz123@gmail.com>';
+=======
+$nombreEmpresa = 'Hidroservice';
+$correoEmpresa = ' <hidroservice123@gmail.com>';
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
 $cabeceras .= 'From: '. $nombreEmpresa . $correoEmpresa . "\r\n";
 //Enviar con copia a
 /*$ConCopia = 'mflores_rivera@hotmail.com';
@@ -182,7 +198,11 @@ if($mensajeValidacionSuccess != ''){
         <div class="conCont esp">
                       <h2 class="phone_n">Números telefónicos</h2>
 <ul>
+<<<<<<< HEAD
 <li>920 610 632</li>
+=======
+<li>984 288 065</li>
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
  
 <!--<li>(51) 988 473 906</li>
 <li>(51) 981 376 406</li>-->
@@ -197,6 +217,7 @@ if($mensajeValidacionSuccess != ''){
 </ul>
 <h2 class="dir_n">Dirección</h2>
 <ul>
+<<<<<<< HEAD
 <li>Dirección: Av. Alfredo Mendiola 4148, Independencia 15311, Lima, Perú</li>
 </ul>
  
@@ -207,6 +228,18 @@ if($mensajeValidacionSuccess != ''){
  
  <li>BCP soles: 000-0000000-0-000</li>
 </ul> -->
+=======
+<li>C.C boulevar ferretero Dansey 354 Tienda H 17 cercado de lima</li>
+</ul>
+ 
+<h2>Números de cuenta</h2>
+<ul>
+<li>Detracción - Banco de la Nación Soles: 00-000-638692 CCI. 00219200163834514837
+</li>
+<!--<li>BCP soles: 191-1777426-0-326</li> -->
+ <li>BCP soles: 000-0000000-0-000</li>
+</ul>
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
                   </div>        
       </div>
     </div>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <footer id="colophon" class="site-footer" role="contentinfo"> 
  <div class="row contMapa">
   <div class="col-md-6 col-12 mapasinpadding mapi">   
@@ -22,6 +23,38 @@
     </div>
   </div>
 </div>
+=======
+<footer id="colophon" class="site-footer" role="contentinfo">
+ 
+ <div class="row contMapa">
+  <div class="col-md-6 col-12 mapasinpadding mapi">   
+  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15607.91653293186!2d-77.0467451!3d-12.0449566!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x23760da8804deb88!2sHidroservice!5e0!3m2!1ses!2spe!4v1533246238882" width="100%" height="100%"  frameborder="0" style="border:0" allowfullscreen></iframe>
+ 
+  </div>
+  <div class="col-md-6 col-12 infoMa">
+         <div class="continfoMap">
+          <h2 class="tituloContacto">Ven a Hidroservice para impresionarte con nuestros servicios: </h2>         
+          <div class="row">
+            <div class="col-sm-12 col-lg-6 lugar">
+              <h3>Visitanos en:</h3>
+              <p><span>Dirección: </span>C.C boulevar ferretero Dansey 354 Tienda H 17 cercado de Lima</p>
+            </div>
+            <div class="col-sm-12 col-lg-6 fono">
+              <h3 class="llamanos">Llamanos al: </h3>
+              <p><span>Central: </span>984 288 065</p> 
+               
+              <p><span> </span></p>
+              <h3 class="llamanos">Email: </h3>
+              <p>hidroservice123@gmail.com <br>
+               gerencia@hidroservice.com.pe</p>
+            </div>
+          </div>
+        </div>
+  </div>
+
+</div>	
+
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
     <div class="menuFoot">
       <div class="contenedor">
        <div class="menu-menu-pie-de-pagina-container">
@@ -38,7 +71,11 @@
         <div class="contenedor">
             <div class="foot_bott">
                 <div class="right-res">     
+<<<<<<< HEAD
                     <div class="copy"> <?= date('Y') ?> © Transporte Bella Luz. Todos los Derechos Reservados </div>
+=======
+                    <div class="copy"> 2018 © HIDROSERVICE. Todos los Derechos Reservados </div>
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
                 </div>
                 <div class="left-res">
                   
@@ -47,8 +84,15 @@
                </div>
             </div>
           </div>    
+<<<<<<< HEAD
       </div>	  
     </div>
+=======
+      </div>
+	  
+    </div> 
+
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
 </footer>
 
 	 
@@ -57,6 +101,7 @@
 
 <script src="js/jquery-3.3.1.min.js" type="text/javascript" charset="utf-8"></script>
 <script src="js/bootstrap.min.js"    type="text/javascript" charset="utf-8"></script>
+<<<<<<< HEAD
 <script src="js/owl-jquery.min.js"></script> 
 <script src="js/owl.carousel.min.js"></script>
 <script src="js-slider/jquery.js"></script>
@@ -65,6 +110,16 @@
 <!-- Texto dinamico cambiante -->
 <script src="js/typed.js"></script>
 <script src="js/basic.js"></script>
+=======
+  <script src="js/owl-jquery.min.js"></script> 
+  <script src="js/owl.carousel.min.js"></script>
+    <script src="js-slider/jquery.js"></script>
+ <script src="js-slider/initslider-1.js"></script>
+  <script src="js-slider/amazingslider.js"></script>
+  <!-- Texto dinamico cambiante -->
+  <script src="js/typed.js"></script>
+  <script src="js/basic.js"></script>
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
 <script type="text/javascript">
   $(document).ready(function(){
 
@@ -229,6 +284,18 @@ var adjustMenu = function() {
 }
 
 </script>
+<<<<<<< HEAD
 
+=======
+<!--Start of Zendesk Chat Script-->
+<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="https://v2.zopim.com/?5xANF6I9TcDOe8bhhnshvM3LONDhzEGC";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>
+<!--End of Zendesk Chat Script-->
+>>>>>>> 9041874da2604e6b02830c6ba122e16f972a1fb0
 </body>
 </html>
