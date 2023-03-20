@@ -1,12 +1,18 @@
-<!-- 	<div id="page" class="hfeed site">
-<div class="espaciotop filter-drop-spacer"></div> -->
-<header id="masthead" class="site-header" role="banner">
-	<div class="navmenu">
+<!-- <header id="masthead" class="site-header" role="banner"> -->
+<header>
+	<!-- <div class="navmenu"> -->
+	<div class="">
+		<!-- <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top"> -->
 		<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
 			<div class="container">
-				<div class="logo_cont">			
+				<div class="logo_cont">
 					<a class="linkLogo" href="index.php">
-						<img class="logo animated fadeInRight" src="img/logo.png" title="Transporte Bella Luz" rel="home" alt="Transporte Bella Luz">
+						<img 
+							class="logo animated fadeInRight" 
+							src="img/logo.png" 
+							title="Transporte Bella Luz" 
+							rel="home" 
+							alt="Transporte Bella Luz">
 					</a>
 					<button 
 						class="navbar-toggler" 
@@ -16,9 +22,9 @@
 						aria-controls="navbarNav" 
 						aria-expanded="false" 
 						aria-label="Toggle navigation">							
-						<span class="navbar-toggler-icon"></span>
+							<span class="navbar-toggler-icon"></span>
 					</button>  
-				</div>					
+				</div>
 				<!-- derecha -->
 				<div class="menu_cont">
 					<div class="social-buttons cl-effect-4 ">
@@ -40,20 +46,13 @@
 								<li class="nav-item clinicio">
 									<a class="nav-link " href="index.php">INICIO<span class="sr-only">(current)</span></a>
 								</li>
-								<!--    <li class="nav-item  clnosotros">
-									<a class="nav-link " href="index.php#nosotros">¿Qué hacemos?</a>
-								</li> -->
 								<li class="nav-item">
 									<a class="nav-link" href="nosotros.php">NOSOTROS</a>
 								</li>
 
 								<li class="nav-item">
 									<a class="nav-link" href="servicios.php">SERVICIOS</a>
-								</li>
-								<!--       
-								<li class="nav-item ">
-									<a class="nav-link contactoquitaespacioderecho" href="productos.php">PRODUCTOS</a>
-								</li> -->  		      
+								</li>  
 								<li class="nav-item ">
 									<a class="nav-link contactoquitaespacioderecho" href="contacto.php">CONTÁCTO</a>
 								</li>        
