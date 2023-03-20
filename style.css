@@ -5072,11 +5072,7 @@ h6 {
 /*     background-color: rgb(245, 245, 245)!important;
     background: url(css/textura-clara.jpg); */
 }
-section.vermasservicios {
-    padding-top: 50px;
-    padding-bottom: 50px;
-    background: url(css/textura-clara.jpg);
-} 
+
 
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
     border: 0;
@@ -6063,7 +6059,7 @@ p.descProyectos {
 }
 section.contenedoHeader {
     background: var(--azul-principal);
-    height: var(--height-normal-title);
+    height: 150px;
 }
 .container.tituloNavegacion h2 {
     color: white;
@@ -7305,4 +7301,9 @@ h4{
 
 .tamanotitulo{
     font-size: 35px;
+}
+
+.container.tituloNavegacion h2 {
+  padding-top: 56px;
+  text-transform: uppercase;
 }

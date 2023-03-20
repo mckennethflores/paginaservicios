@@ -22,6 +22,17 @@
     padding: 0;
 }
 
+.quienessomos{
+    padding: 2rem;
+}
+
+section.vermasservicios {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background: url(css/textura-clara.jpg);
+} 
+
+
 @media (max-width: 992px){
     .images_of_what_we_do img{
         height: 5rem;
@@ -30,3 +41,25 @@
 /* img {
     width: 100%;
 } */
+
+
+
+
+@media only screen and (max-width: 426px) {
+
+    .logo_cont {
+        display: block !important;
+        margin: 0 auto !important;
+    }
+
+    .menu_cont {
+        width: 100% !important;
+    }
+    body > section.quienessomos > div:nth-child(1) {
+        height: 0 !important;
+    }
+
+    .titH3 h3 {
+        font-size: 1rem;
+    }
+}
