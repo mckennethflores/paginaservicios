@@ -50,6 +50,8 @@
     --texto-normal: 20px;
     --height-normal-title : 80px;
 
+    /* Imagenes */
+
   }
 
 
@@ -5380,7 +5382,7 @@ button.owl-dot.active span:before {
 
 /* Contactenos */
 section.contactenos {
-    background-image: url(css/background.png);  
+    background-image: url(../css/background.png);  
     width: 100%;
     height: 496px;
 }
@@ -5934,7 +5936,7 @@ h3.servicios:before {
   width: 100%;
  /* height: 500px;*/
     height: 239px; 
-  background-image: url(img/galeria_transporte/a_transporte.png);
+  background-image: url(../img/galeria_transporte/a_transporte.png);
   background-size: cover;
   background-position: center;
   padding: 0 !important;
@@ -5943,15 +5945,15 @@ h3.servicios:before {
 }
 
 .project-2 {
-  background-image: url(img/galeria_transporte/b_transporte.png);
+  background-image: url(../img/galeria_transporte/b_transporte.png);
 }
 
 .project-3 {
-  background-image: url(img/galeria_transporte/c_transporte.png);
+  background-image: url(../img/galeria_transporte/c_transporte.png);
 }
 
 .project-4 {
-  background-image: url(img/galeria_transporte/d_transporte.png);
+  background-image: url(../img/galeria_transporte/d_transporte.png);
 }
 
 
@@ -6036,7 +6038,7 @@ p.descProyectos {
     -moz-background-size: auto auto;
     background-size: auto auto;
     overflow: hidden;
-    background: url(textura-oscura.jpg);
+    background: url(../textura-oscura.jpg);
         background-image: url("textura-oscura.jpg");
         background-position-x: 0%;
         background-position-y: 0%;
@@ -7265,7 +7267,7 @@ i.fas.fa-swimming-pool {
 }
 
 .fondo_servicios {
-    background: url(img/fondo_servicios.png);
+    background: url(../img/fondo_servicios.png);
     height: 391px;
 }
 .serviciosTitulo {
