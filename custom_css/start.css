@@ -1,0 +1,32 @@
+.fondo_servicios {
+    background: url(../img/fondo_servicios.png);
+    /* height: 25rem; */
+    /* height: 25rem; */
+    height: auto;
+    background-size: cover;
+    background-position: center center;
+}
+
+.images_of_what_we_do{
+    max-width: 20%;
+    padding-top: 2rem;
+    margin: 0 auto;
+    min-width: 6.5rem;
+}
+
+.images_of_what_we_do img{
+    max-height: 7rem;
+}
+
+.container-fluid{
+    padding: 0;
+}
+
+@media (max-width: 992px){
+    .images_of_what_we_do img{
+        height: 5rem;
+    }
+}
+/* img {
+    width: 100%;
+} */

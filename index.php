@@ -197,7 +197,7 @@ if($mensajeValidacionSuccess != ''){
             <a href="servicios.php"><div class="serviciosTitulo ">Almacenamiento y  <br><span class="anim2"></span></div></a>
           </div>
           <div class="text-center pserv images_of_what_we_do">
-            <a href="servicios.php"><figure><img class="img-fluid" src="img/transporte_de_carga/b_almacenamiento_y_distribucion.png" alt="PILETAS ORNAMENTALES"/></figure></a>
+            <a href="servicios.php"><figure><img class="img-center" src="img/transporte_de_carga/b_almacenamiento_y_distribucion.png" alt="PILETAS ORNAMENTALES"/></figure></a>
           </div>
         </div>
 
@@ -206,7 +206,7 @@ if($mensajeValidacionSuccess != ''){
             <a href="servicios.php"><div class="serviciosTitulo ">Consolidación y  desconsolidación<br> <span class="anim3"></span></div></a>
           </div>
           <div class="text-center pserv images_of_what_we_do">
-            <a href="servicios.php"><figure><img class="img-fluid" src="img/transporte_de_carga/c_consolidacion_y_desconsolidacion.png" /></figure></a>
+            <a href="servicios.php"><figure><img class="img-center" src="img/transporte_de_carga/c_consolidacion_y_desconsolidacion.png" /></figure></a>
           </div>
         </div>
 
@@ -215,7 +215,7 @@ if($mensajeValidacionSuccess != ''){
             <a href="servicios.php"><div class="serviciosTitulo ">Asesoramiento y planificación</br><span class="anim4"></span></div></a>
           </div>
           <div class="text-center pserv images_of_what_we_do">
-            <a href="servicios.php"><figure><img class="img-fluid" src="img/transporte_de_carga/d_asesoramiento_y_planificacion.png" /></figure></a>
+            <a href="servicios.php"><figure><img class="img-center" src="img/transporte_de_carga/d_asesoramiento_y_planificacion.png" /></figure></a>
           </div>
         </div>
 
@@ -224,7 +224,7 @@ if($mensajeValidacionSuccess != ''){
           <a href="servicios.php"><div class="serviciosTitulo">Seguridad de la</br><span class="anim5"></span></div></a>
           </div>
           <div class="text-center pserv images_of_what_we_do">
-          <a href="servicios.php"><figure><img class="img-fluid" src="img/transporte_de_carga/e_seguridad_de_la_carga.png" /></figure></a>
+          <a href="servicios.php"><figure><img class="img-center" src="img/transporte_de_carga/e_seguridad_de_la_carga.png" /></figure></a>
           </div>
         </div>
 

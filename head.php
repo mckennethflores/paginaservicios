@@ -11,10 +11,20 @@
 	<link rel="stylesheet" href="css/font-awesome.min.css">
 	<link rel="stylesheet" href="custom_css/normalize.css">
 	<link rel="stylesheet" href="custom_css/head.css">
+	<link rel="stylesheet" href="custom_css/start.css">
 	<link rel="stylesheet" href="custom_css/about.css">
 	<link rel="stylesheet" href="style.css">
 	<meta name="theme-color" content="#145fa6">
-  <meta name="msapplication-TileColor" content="#145fa6">
+  	<meta name="msapplication-TileColor" content="#145fa6">
 </head>
 <body>
-<?php require_once("menu.php"); ?>
+	<!-- <header id="masthead" class="site-header" role="banner"> -->
+<header>
+<!-- <div class="navmenu"> -->
+	<!-- <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top"> -->
+	<nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
+		<?php require("menu.php"); ?>
+	</nav>
+	<div class="espacio_para_menu"></div>
+
+</header>

@@ -95,10 +95,6 @@
     
   }
   
-  .images_of_what_we_do{
-    max-width: 80%;
-    padding-top: 2rem;
-  }
 
 
 	.espacio{
@@ -107,9 +103,7 @@
 	.purpose{
 		color: var(--azul-principal);
 	}
-  img {
-      width: 100%;
-  }
+
 
 
   .fa-check:before {
@@ -7263,10 +7257,7 @@ i.fas.fa-swimming-pool {
     margin: 0;
 }
 
-.fondo_servicios {
-    background: url(../img/fondo_servicios.png);
-    height: 391px;
-}
+
 .serviciosTitulo {
     color: #ffffff;
     font-family: Arial;
