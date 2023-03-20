@@ -88,6 +88,15 @@
     color: var(--rojo-principal);
     outline: none !important;
   }
+  
+  @media (max-width: 600px) {
+    
+  }
+  
+  .images_of_what_we_do{
+    max-width: 80%;
+    padding-top: 2rem;
+  }
 
 	.imgNosotros{
 		height: 12.5rem;
@@ -6597,7 +6606,7 @@ img.logo {
 }
 
  /*********   Otras medidas   ********/
-
+/* 
 @media screen and (min-width: 400px){
   body{
    background: green; 
@@ -6635,7 +6644,7 @@ body{
     background: blue;
 }
 
-}
+} */
 
 @media screen and (min-width: 950px){
 /** input form */

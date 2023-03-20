@@ -1,6 +1,6 @@
 <ul class="navbar-nav">
 	<li class="nav-item clinicio">
-		<a class="nav-link " href="index.php">INICIO <span class="sr-only">(current)</span></a>
+		<a class="nav-link " href="index.php">INICIO<span class="sr-only">(current)</span></a>
 	</li>
 	<!--    <li class="nav-item  clnosotros">
 		<a class="nav-link " href="index.php#nosotros">¿Qué hacemos?</a>
